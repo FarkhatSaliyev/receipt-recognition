@@ -52,7 +52,7 @@ Join thousands of developers building full-stack apps with Convex:
 
 
 ## Notes
-Clerk → authentication and user management
-Convex → backend + database for storing receipts and extracted data
-Inngest → AI agent workflows (parsing PDFs, structuring data)
-Stripe → plan management
+- Clerk → authentication and user management
+- Convex → backend + database for storing receipts and extracted data
+- Inngest → AI agent workflows (parsing PDFs, structuring data)
+- Stripe → plan management
