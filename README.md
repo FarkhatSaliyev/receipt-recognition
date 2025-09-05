@@ -49,3 +49,10 @@ Join thousands of developers building full-stack apps with Convex:
 
 - Join the [Convex Discord community](https://convex.dev/community) to get help in real-time.
 - Follow [Convex on GitHub](https://github.com/get-convex/), star and contribute to the open-source implementation of Convex.
+
+
+## Notes
+Clerk → authentication and user management
+Convex → backend + database for storing receipts and extracted data
+Inngest → AI agent workflows (parsing PDFs, structuring data)
+Stripe → plan management
