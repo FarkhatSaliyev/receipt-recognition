@@ -46,7 +46,6 @@ To learn more about developing your project with Convex, check out:
 ## Join the community
 
 Join thousands of developers building full-stack apps with Convex:
-
 - Join the [Convex Discord community](https://convex.dev/community) to get help in real-time.
 - Follow [Convex on GitHub](https://github.com/get-convex/), star and contribute to the open-source implementation of Convex.
 
@@ -56,3 +55,7 @@ Join thousands of developers building full-stack apps with Convex:
 - Convex → backend + database for storing receipts and extracted data
 - Inngest → AI agent workflows (parsing PDFs, structuring data)
 - Stripe → plan management
+
+  <img width="1920" height="1080" alt="Tech Stack" src="https://github.com/user-attachments/assets/075676a4-f90b-46cb-b060-ee1cdfef4ac6" />
+
+  
